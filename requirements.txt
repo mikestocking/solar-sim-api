@@ -1,0 +1,4 @@
+fastapi
+glob
+pvlib
+pandas
